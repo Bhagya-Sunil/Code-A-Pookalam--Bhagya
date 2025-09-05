@@ -14,12 +14,12 @@ Welcome to CODE-A-പൂക്കളം, a creative coding challenge scheduled f
 
 
 ### Pookalam Description
-Brief description about your pookalam. What makes it special and different.
+What makes this pookalam truly special is how it carries the warmth and spirit of Onam into a digital form. Just like a traditional flower design carefully arranged by hand, it radiates joy through its bright colors, layered petals, and perfect symmetry. But instead of blossoms, it is crafted with code, showing how creativity and culture can meet in new ways. It feels festive and lively, yet also unique because it transforms a centuries-old tradition into something modern while still keeping its heart intact.
 
 
 
 ### Technologies Used 
-
+The pookalam is best implemented using SVG embedded in HTML (<svg>). SVG handles crisp vector shapes, rotations, and layering easily and scales responsively.
 
 ### Video explaining How you build the pookalam
 
