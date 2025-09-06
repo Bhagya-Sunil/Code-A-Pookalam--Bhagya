@@ -10,7 +10,7 @@ Welcome to CODE-A-പൂക്കളം, a creative coding challenge scheduled f
 
 
 ### Hosted Pookalam Link
-
+Onam pookalam.html
 
 
 ### Pookalam Description
@@ -22,7 +22,7 @@ What makes this pookalam truly special is how it carries the warmth and spirit o
 The pookalam is best implemented using SVG embedded in HTML. SVG handles crisp vector shapes, rotations, and layering easily and scales responsively.
 
 ### Video explaining How you build the pookalam
-
+Video.mp4
 
 
 ### Screenshots
