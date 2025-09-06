@@ -26,8 +26,7 @@ Video.mp4
 
 
 ### Screenshots
-
-
+https://github.com/Bhagya-Sunil/Code-A-Pookalam--Bhagya/blob/main/onam.jpg
 
 Happy Onam ! <br>
 Made with ❤️ at TinkerHub LBSITW
