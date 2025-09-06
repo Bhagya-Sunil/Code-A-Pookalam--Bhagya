@@ -10,7 +10,7 @@ Welcome to CODE-A-പൂക്കളം, a creative coding challenge scheduled f
 
 
 ### Hosted Pookalam Link
-Onam pookalam.html
+https://github.com/Bhagya-Sunil/Code-A-Pookalam--Bhagya/blob/main/Onam%20pookalam.html
 
 
 ### Pookalam Description
